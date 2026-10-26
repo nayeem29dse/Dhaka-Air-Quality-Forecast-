@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+scikit-learn
+lightgbm
+joblib
+streamlit>=1.40
