@@ -98,3 +98,7 @@ streamlit run app.py
 ## Credits
 
 Air quality data by [Open-Meteo.com](https://open-meteo.com/), based on CAMS (Copernicus Atmosphere Monitoring Service) model data, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+## Author
+**Mehedee Hasan Nyeem**
+**Data Science Student**
